@@ -1,0 +1,5 @@
+   0 cd /home
+   1 nano myfirstbashscript.sh
+   2 chmod 755 myfirstbashscript.sh 
+   3 ./myfirstbashscript.sh 
+   4 history > history.txt
