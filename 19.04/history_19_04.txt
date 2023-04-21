@@ -1,0 +1,7 @@
+   0 nano fullscript.sh
+   1 chmod 744 fullscript.sh 
+   2 ./fullscript.sh 
+   3 ls -la /tmp/
+   4 ls -la /tmp/test/
+   5 export_file fullscript.sh 
+   6 history > history_19_04.txt
